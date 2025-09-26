@@ -23,7 +23,7 @@ HTML5 – structure of the website
 
 CSS3 – styling and layout
 
-javascript - that will be icncluded later
+javascript - that will be included later
 
 
 🚀 How to View
@@ -42,7 +42,7 @@ git clone https://github.com/Naaayeley9/Repo.git
 
 📌 Future Improvements
 
-Add product details pages
+Add product details pages such as jewellerys and other stuffs
 
 Create a contact form
 
